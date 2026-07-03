@@ -56,6 +56,8 @@ The project requires:
 - scipy
 - scipy.signal
 - copy
+- scikit-learn
+- joblib
 
 
 Alternatively, install everything via:
