@@ -63,7 +63,7 @@ def extract_frames(video_path, output_folder, frame_interval=1):
     
     print(f"Estratti {saved_count} frame in {output_folder}")
 
-#extract_frames(video_path, output_folder) 
+extract_frames(video_path, output_folder) 
 
 # ELABORAZIONE ROI E NORMALIZZAZIONE
 
