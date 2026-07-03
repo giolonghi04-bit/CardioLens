@@ -1,0 +1,6 @@
+numpy
+opencv-python
+pywavelets
+matplotlib
+pandas
+scipy
