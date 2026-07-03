@@ -36,13 +36,8 @@ pip install -r requirements.txt
 
 ## Usage
 
----
 code inside extraction folder should be run first
----
 
-## Pipeline 
-
----
 
 ## Requirements
 
