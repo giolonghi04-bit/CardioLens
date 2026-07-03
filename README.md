@@ -37,7 +37,8 @@ pip install -r requirements.txt
 ## Usage
 
 code inside extraction folder should be run first
-
+In order to estimate HR and SpO2, you should first run PIPELINE RAW PPG THESIS and then the corresponding code in the "extraction folder"
+For BR estimation you can run BR_EMD_like directly or PPG_to_BR first and BR_zero_crossing_final later
 
 ## Requirements
 
