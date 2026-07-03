@@ -4,3 +4,5 @@ pywavelets
 matplotlib
 pandas
 scipy
+scikit-learn
+joblib
