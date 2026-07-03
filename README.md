@@ -7,11 +7,12 @@ The project implements a smartphone-based pipeline to extract HR, SpO2 and BR fr
 
 ## Project Structure
 
-├── extraction #folder containing the code needed to extract the PPG signal
-├── parameters #folder with algorithms that compute the parameters
-├── requirements.txt    # project dependencies
-└── README.md
 
+---
+├── extraction/      # folder containing the code needed to extract the PPG signal
+├── parameters/      # folder with algorithms that compute the parameters
+├── requirements.txt # project dependencies
+└── README.md
 ---
 
 ## Installation
