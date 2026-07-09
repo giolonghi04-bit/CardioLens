@@ -73,8 +73,8 @@ pip install -r requirements.txt
 ## Authors
 
 Gioele Longhi, Ludovico Morando, Luca Mercuri, Gabriele Mammarella  
-University: [Politecnico di Milano]  
-Degree Program: [Ingegneria Biomedica]  
+University: Politecnico di Milano
+Degree Program: Ingegneria Biomedica
 
 ---
 
